@@ -25,9 +25,9 @@ Currently local use only. To use in your own project:
 ```xml
 <!-- In your local pom.xml -->
 <dependency>
-  <groupId>com.example</groupId>
-  <artifactId>workflow-core</artifactId>
-  <version>1.0.0</version>
+    <groupId>com.sougata</groupId>
+    <artifactId>workflow-core</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
