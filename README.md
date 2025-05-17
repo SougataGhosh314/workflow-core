@@ -142,7 +142,7 @@ public class SafeUserWorkflow extends DefaultWorkflow<UserInput, UserProfile> {
 ## 🧪 Testing
 
 You can test workflows by providing mock steps and verifying the output of `Workflow.run()`:
-Also, feel free to refer to for sample usage of this library
+Also, feel free to refer to https://github.com/SougataGhosh314/userprofile-service-workflow.git for sample usage of this library
 
 
 ```java
